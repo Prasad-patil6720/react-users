@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "tejas",
+      "email": "jhon7232@gmail.com",
+      "address": "mumbai",
+      "contact": "9876543210",
+      "id": 1
+    },
+    {
+      "name": "Prasad sonawane",
+      "email": "prasadsonawane510@gmail.com",
+      "address": "mumbai",
+      "contact": "9876543210",
+      "id": 2
+    }
+  ]
+}
